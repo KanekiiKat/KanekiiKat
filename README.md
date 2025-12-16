@@ -29,7 +29,7 @@
 
 ##  Proyectos destacados
 
-- **DealSearcherOwO / Gakeyru** — *En testing...*
+- **Gakeyru** — *En testing...*
   Demo/Info: Una app de móvil para poder buscar ofertas de videojuegos.
 
 ---
