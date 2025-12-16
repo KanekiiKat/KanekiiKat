@@ -24,38 +24,36 @@
 **Herramientas**
 - Git · GitHub · IntelliJ · Android Studio · VS Code  
 - MySQL / SQL
+- SpringBoot
 
 ---
 
-##  Proyectos destacados
+## Proyectos destacados
 
-- **Gakeyru** — *En testing...*
-  Demo/Info: Una app de móvil para poder buscar ofertas de videojuegos.
+| Nombre | Info | Enlace |
+|---|---|---|
+| **Gakeyru** | Una app de móvil para poder buscar ofertas de videojuegos. | *(En testing...)* |
 
----
 
-## 📈 Estadísticas
+## Estadísticas
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kanekiikat&show_icons=true&hide_title=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanekiikat&layout=compact" />
 </p>
 
 ---
 
 ##  En qué estoy ahora
--  Mejorando mis proyectos de clase
+-  Mejorando mis proyectos de clase (Java, Kotlin, Python, Sql, C# + Unity)
 -  Construyendo apps y practicando arquitectura
--  Aprender C# + Unity y publicar un juego
-
+-  Aprendiendo modelado en Blender
 ---
 
 ##  Contacto
 - Email: kanecat.dev@gmail.com
-- GitHub: https://github.com/**TU_USUARIO**
-- (Opcional) LinkedIn: **TU_LINKEDIN**
-
+  
 ---
 
 <p align="center">
-  <i>Última actualización: 2025</i>
+  <i>Última actualización: 16/12/2025</i>
 </p>
