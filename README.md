@@ -1,4 +1,3 @@
-<h1 align="center">Hola, soy Kane</h1>
 <p align="center">
   <b>Estudiante de informática</b> · Apps móviles · Backend · Videojuegos
 </p>
