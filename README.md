@@ -28,7 +28,6 @@
 ---
 
 ##  Proyectos destacados
-> Reemplaza los enlaces por los tuyos 
 
 - **DealSearcherOwO / Gakeyru** — *En testing...*
   Demo/Info: Una app de móvil para poder buscar ofertas de videojuegos.
