@@ -1,5 +1,9 @@
 <p align="center">
-  <b>Estudiante de informática</b> · Apps móviles · Backend · Videojuegos
+  <a href="./README.md">English</a> · <a href="./README.es.md">Español</a>
+</p>
+
+<p align="center">
+  <b>Computer Science Student</b> · Mobile Apps · Backend · Video Games
 </p>
 
 <p align="center">
@@ -8,32 +12,32 @@
 
 ---
 
-##  Sobre mí
--  Actualmente: **Ciclo superior de informática**
--  Enfocado en: **Android / Java / Python**
--  Meta personal: aprender **C#** para **Unity** y crear videojuegos
+## About Me
+- Currently: **Higher Vocational Training in Computer Science**
+- Focused on: **Android / Java / Python**
+- Personal goal: learn **C#** for **Unity** and build video games
 
 ---
 
-##  Tecnologías
-**Lenguajes**
-- Java · Python · Kotlin (aprendiendo) · C# (en camino)
+## Technologies
+**Languages**
+- Java · Python · Kotlin (learning) · C# (on the way)
 
-**Herramientas**
+**Tools**
 - Git · GitHub · IntelliJ · Android Studio · VS Code  
 - MySQL / SQL
-- SpringBoot
+- Spring Boot
 
 ---
 
-## Proyectos destacados
+## Featured Projects
 
-| Nombre | Info | Enlace |
+| Name | Info | Link |
 |---|---|---|
-| **Gakeyru** | Una app de móvil para poder buscar ofertas de videojuegos. | *(En testing...)* |
+| **Gakeyru** | A mobile app to find video game deals. | *(Testing / Internal testing)* (Play Store) |
+| **Guess Who? (Reflex)** | “Guess Who?” game built with the *Reflex* framework. | [Guess Who?](https://github.com/KanekiiKat/quien-es-quien) (GitHub) |
 
-
-## Estadísticas
+## Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=kanekiikat&show_icons=true&hide_title=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanekiikat&layout=compact" />
@@ -41,17 +45,18 @@
 
 ---
 
-##  En qué estoy ahora
--  Mejorando mis proyectos de clase (Java, Kotlin, Python, Sql, C# + Unity)
--  Construyendo apps y practicando arquitectura
--  Aprendiendo modelado en Blender
+## What I'm working on now
+- Improving my class projects (Java, Kotlin, Python, SQL, C# + Unity)
+- Building apps and practicing architecture
+- Learning 3D modeling in Blender
+
 ---
 
-##  Contacto
+## Contact
 - Email: kanecat.dev@gmail.com
-  
+
 ---
 
 <p align="center">
-  <i>Última actualización: 16/12/2025</i>
+  <i>Last updated: 16/12/2025</i>
 </p>
