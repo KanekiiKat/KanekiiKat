@@ -39,8 +39,8 @@
 
 ## Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kanekiikat&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanekiikat&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kanecatdev&show_icons=true&hide_title=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanecatdev&layout=compact" />
 </p>
 
 ---
