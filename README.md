@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="mailto:kanecat.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white"></a>
+  <a href="https://discord.gg/aEehf2PVuR" target="_blank" rel="noopener noreferrer"><img alt="Discord" src="https://img.shields.io/badge/Discord--5865F2?logo=discord&logoColor=white"></a>
 </p>
 
 ---
@@ -21,7 +22,7 @@
 
 ## Technologies
 **Languages**
-- Java · Python · Kotlin (learning) · C# (on the way)
+- Java · Python · Kotlin · HTML · CSS · C#
 
 **Tools**
 - Git · GitHub · IntelliJ · Android Studio · VS Code  
@@ -35,7 +36,7 @@
 | Name | Info | Link |
 |---|---|---|
 | **Gakeyru** | A mobile app to find video game deals. | *(Testing / Internal testing)* (Play Store) |
-| **Guess Who? (Reflex)** | “Guess Who?” game built with the *Reflex* framework. | [Guess Who?](https://github.com/KanekiiKat/quien-es-quien) (GitHub) |
+| **Guess Who? (Reflex)** | “Guess Who?” game built with the *Reflex* framework. | [Guess Who? (GitHub)](https://github.com/kanecatdev/quien-es-quien) |
 
 ## Stats
 <p align="center">
@@ -58,5 +59,5 @@
 ---
 
 <p align="center">
-  <i>Last updated: 16/12/2025</i>
+  <i>Last updated: 20/12/2025</i>
 </p>
