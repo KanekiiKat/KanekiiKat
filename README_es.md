@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="./README.md">English</a> · <a href="./README.es.md">Español</a>
+  <a href="./README.md">English</a> · <a href="./README_es.md">Español</a>
 </p>
 
 <p align="center">
@@ -8,25 +8,26 @@
 
 <p align="center">
   <a href="mailto:kanecat.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white"></a>
+  <a href="https://discord.gg/aEehf2PVuR" target="_blank" rel="noopener noreferrer"><img alt="Discord" src="https://img.shields.io/badge/Discord--5865F2?logo=discord&logoColor=white"></a>
 </p>
 
 ---
 
-##  Sobre mí
--  Actualmente: **Ciclo superior de informática**
--  Enfocado en: **Android / Java / Python**
--  Meta personal: aprender **C#** para **Unity** y crear videojuegos
+## Sobre mí
+- Actualmente: **Ciclo Superior de Informática**
+- Enfocado en: **Android / Java / Python**
+- Meta personal: aprender **C#** para **Unity** y crear videojuegos
 
 ---
 
-##  Tecnologías
+## Tecnologías
 **Lenguajes**
-- Java · Python · Kotlin (aprendiendo) · C# (en camino)
+- Java · Python · Kotlin · HTML · CSS · C#
 
 **Herramientas**
 - Git · GitHub · IntelliJ · Android Studio · VS Code  
 - MySQL / SQL
-- SpringBoot
+- Spring Boot
 
 ---
 
@@ -34,8 +35,8 @@
 
 | Nombre | Info | Enlace |
 |---|---|---|
-| **Gakeyru** | Una app de móvil para poder buscar ofertas de videojuegos. | *(En testing/ Prueba interna)* (Play Store) |
-| **¿Quien es Quien? (Reflex)** | Juego de "¿Quien es Quien?" hecho con el framework *Reflex* | [¿Quien es Quien?](https://github.com/KanekiiKat/quien-es-quien) (Github) |
+| **Gakeyru** | Una app móvil para encontrar ofertas de videojuegos. | *(En testing / prueba interna)* (Play Store) |
+| **¿Quién es quién? (Reflex)** | Juego de “¿Quién es quién?” hecho con el framework *Reflex*. | [¿Quién es quién? (GitHub)](https://github.com/kanecatdev/quien-es-quien) |
 
 ## Estadísticas
 <p align="center">
@@ -45,19 +46,18 @@
 
 ---
 
-##  En qué estoy ahora
--  Mejorando mis proyectos de clase (Java, Kotlin, Python, Sql, C# + Unity)
--  Construyendo apps y practicando arquitectura
--  Aprendiendo modelado en Blender
+## En qué estoy ahora
+- Mejorando mis proyectos de clase (Java, Kotlin, Python, SQL, C# + Unity)
+- Construyendo apps y practicando arquitectura
+- Aprendiendo modelado 3D en Blender
+
 ---
 
-##  Contacto
+## Contacto
 - Email: kanecat.dev@gmail.com
-  
+
 ---
 
 <p align="center">
-  <i>Última actualización: 16/12/2025</i>
+  <i>Última actualización: 20/12/2025</i>
 </p>
-
-damelo en ingles, para copiar de un click
